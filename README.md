@@ -1,6 +1,12 @@
 # backend-multi-mesva
 Project Multi PT Mesva - Backend
 
+## Clone Project
+
+    git clone https://github.com/wahyupambudi/backend-multi-mesva.git
+    or
+    git clone git@github.com:wahyupambudi/backend-multi-mesva.git
+
 ## Project Backend Multi Mesva
 
 This is my project Backend Multi Mesva with tech stack `nodeJs, ExpressJs, Postgres`
