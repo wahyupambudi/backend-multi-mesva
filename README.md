@@ -15,7 +15,6 @@ The module nodejs used are in `package.json` file.
 
     create database dbmultimesva;
 
-
 ## Migrate Database with prisma
 
     npx prisma migrate dev
@@ -23,3 +22,12 @@ The module nodejs used are in `package.json` file.
 ## Run the app
 
     npm run start
+
+## Tech Stack
+- [x] Express Js
+- [x] Prisma
+- [x] PostgresSQL 16
+- [x] PgAdmin V7
+- [x] Postman
+- [x] Visual Studio Code
+- [x] DBDiagram
