@@ -13,8 +13,8 @@ This is my project Backend Multi Mesva with tech stack `nodeJs, ExpressJs, Postg
 The module nodejs used are in `package.json` file.
 `index.js` used to run the service
 
-## environment
-This is file .env
+## Environment
+This is file .env for environment in project
 
     PORT=8080
     DATABASE_URL="postgresql://postgres:USER-NAME@localhost:5432/DATABASE-NAME?schema=public"
