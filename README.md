@@ -14,7 +14,8 @@ The module nodejs used are in `package.json` file.
 `index.js` used to run the service
 
 ## environment
-This is file .env    
+This is file .env
+
     PORT=8080
     DATABASE_URL="postgresql://postgres:USER-NAME@localhost:5432/DATABASE-NAME?schema=public"
     SALT_ROUNDS=10
