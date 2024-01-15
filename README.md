@@ -25,7 +25,7 @@ This is file .env for environment in project
 
     npm install
 
-## Create Database
+## Create Database With Postgres
 
     create database dbmultimesva;
 
